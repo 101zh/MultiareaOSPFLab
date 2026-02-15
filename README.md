@@ -1,5 +1,9 @@
 # Multiarea OSPF Configuration with IPv4 & IPv6
 
+A lab which configures a computer network with Multiarea OSPF. Device configurations and other diagnostic information can be find in the corresponding folders.
+
+Background information on lab concepts can be found here: <https://101zh.github.io/networking/>
+
 ## Contents
 
 - [**Purpose**](#purpose)
